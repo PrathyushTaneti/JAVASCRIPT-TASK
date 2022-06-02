@@ -1,1 +1,3 @@
-# JAVASCRIPT-TASK
+# Mikaso Website
+
+## Author : Prathyush Taneti
